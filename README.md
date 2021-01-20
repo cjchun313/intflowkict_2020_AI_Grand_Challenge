@@ -1,6 +1,9 @@
 ## intflowkict_2020_AI_Grand_Challenge
 * 2020 AI Grand Challenge (3rd track) - Public dataset developed by kict & intflow.
 
+### Related Challenge
+* http://www.ai-challenge.kr/
+
 ### Equipment 
 * Sony PCM-A10
 
